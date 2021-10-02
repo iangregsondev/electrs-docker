@@ -1,6 +1,6 @@
 # Docker Image for Electrum Server in Rust (_electrs_)
 
-This repository handles the building and publishing of _electrs_ to Docker Hub.
+This [repository](https://github.com/iangregsondev/electrs-docker) handles the building and publishing of _electrs_ to Docker Hub.
 
 All published images in Docker Hub can be seen [here](https://hub.docker.com/repository/docker/iangregsondev/electrs)
 
