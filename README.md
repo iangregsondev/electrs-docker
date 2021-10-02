@@ -2,6 +2,8 @@
 
 This repository handles the building and publishing of _electrs_ to Docker Hub.
 
+All published images in Docker Hub can be seen [here](https://hub.docker.com/repository/docker/iangregsondev/electrs)
+
 For more information on _electrs_, please see the project repository [here](https://github.com/romanz/electrs)
 
 ## Prerequisites
@@ -12,14 +14,9 @@ Please see the project repository [here](https://github.com/romanz/electrs)
 
 Please see the project repository [here](https://github.com/romanz/electrs)
 
-## Available
-
-* [GitHub](https://github.com/iangregsondev/electrs-docker)
-* [Docker Hub](https://hub.docker.com/repository/docker/iangregsondev/electrs)
-
 ## Versioning
 
-The version of the published docker image follows the versions of _electrs_.
+The versions of the published docker images follow the versions of _electrs_.
 
 ## Authors
 
