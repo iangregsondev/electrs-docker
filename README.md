@@ -20,10 +20,10 @@ The versions of the published docker images follow the versions of _electrs_.
 
 ## Authors
 
-* **Ian Gregson** - https://github.com/iangregsondev
-    * Website: https://iangregson.dev
-    * Twitter: [@iangregsondev](https://twitter.com/iangregsondev)
-    * LinkedIn: [@iangregsondev](https://www.linkedin.com/in/iangregsondev)
+- **Ian Gregson** - https://github.com/iangregsondev
+  - Website: https://iangregson.dev
+  - Twitter: [@iangregsondev](https://twitter.com/iangregsondev)
+  - LinkedIn: [@iangregsondev](https://www.linkedin.com/in/iangregsondev)
 
 ## License
 
