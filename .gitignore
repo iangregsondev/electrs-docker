@@ -59,5 +59,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 ### Custom
-act.secrets
 slim.report.json
+
+/.act/*
+!/.act/*.example
