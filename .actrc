@@ -1,3 +1,4 @@
 -P ubuntu-latest=nektos/act-environments-ubuntu:18.04
+release
 --secret-file .act/act.secrets
---eventpath .act/tag.json
+--eventpath .act/event.json
