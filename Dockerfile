@@ -1,6 +1,6 @@
 FROM rust:1.68.0-slim-buster AS builder
 
-ARG VERSION=v0.9.13
+ARG VERSION=v0.9.14
 ENV REPO=https://github.com/romanz/electrs.git
 
 WORKDIR /build
