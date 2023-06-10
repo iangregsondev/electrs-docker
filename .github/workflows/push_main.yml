@@ -15,8 +15,6 @@ jobs:
 
     with:
       repository: philipcristiano/electrs
-      qemu_platforms: amd64,arm64
-      docker_platforms: linux/amd64,linux/arm64/v8
       timeout: 120
 
     secrets:
