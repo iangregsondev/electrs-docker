@@ -1,4 +1,4 @@
-FROM rust:1.68.0-slim-buster AS builder
+FROM rust:1.73.0-slim-bookworm AS builder
 
 ARG VERSION=v0.10.1
 ENV REPO=https://github.com/romanz/electrs.git
@@ -13,7 +13,7 @@ RUN git clone --branch $VERSION $REPO .
 RUN cargo build --release --bin electrs
 
 
-FROM debian:buster-slim
+FROM debian:bookworm-slim
 
 COPY --from=builder /build/target/release/electrs /bin/electrs
 
