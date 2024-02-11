@@ -1,6 +1,6 @@
 FROM rust:1.75.0-slim-bookworm AS builder
 
-ARG VERSION=v0.10.2
+ARG VERSION=v0.10.3
 ENV REPO=https://github.com/romanz/electrs.git
 
 WORKDIR /build
